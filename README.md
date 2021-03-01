@@ -1,2 +1,2 @@
-# DSP
-DSP class material class of CUC
+# 数字信号处理
+中国传媒大学《数字信号处理》课程笔记、课件、习题、作业以及复习资料
